@@ -27,7 +27,7 @@ a{
   border: 1px solid transparent;
   width: 250px;
   height: 250px;
-  background-image: url('/pixelcut-export.jpeg');
+  background-image: url('public/pixelcut-export.jpeg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
